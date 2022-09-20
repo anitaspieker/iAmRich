@@ -4,8 +4,10 @@ Inspired from the "I Am Rich" app.
 But my app lets you decide, are your rich or are your poor?
 
 # Credits
-A [App Brewery](https://www.appbrewery.co/) iOS app challenge.
 Coded with Swift by Anita Spieker. 
+
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
 
 # About the original app
 I Am Rich was an iOS mobile application developed by Armin Heinrich that was distributed through the App Store. When launched, the screen contained only a glowing red gem and an icon that, when pressed, displayed the following mantra in large text:
