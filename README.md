@@ -2,6 +2,8 @@
 Inspired from the "I Am Rich" app.
 
 But my app lets you decide, are your rich or are your poor?
+![image](https://user-images.githubusercontent.com/63751505/191330329-024b15f7-a6c2-4b99-8547-338a59419709.png)
+
 
 # Credits
 Coded with Swift by Anita Spieker. 
